@@ -7,7 +7,6 @@ On Heroku: https://jpa02-ljv.herokuapp.com/
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-s22/jpa02-ljvcs
 
 
-
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
